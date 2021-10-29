@@ -1,0 +1,1 @@
+ezplot(f,[min,max])
